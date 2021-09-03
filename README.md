@@ -1,3 +1,3 @@
-# Single-Multiple-Custom-Object-Detection-and-Tracking
+# Physical Distancing Detection Using YOLOv3 and DeepSORT
 
-Please visit https://www.youtube.com/watch?v=zi-62z-3c4U for the full course - Real-time Multiple Object Tracking (MOT) with Yolov3, Tensorflow and Deep SORT
+If you want this source code then you can contact me : hafizhbocahscib@gmail.com
